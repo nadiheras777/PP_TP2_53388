@@ -23,4 +23,7 @@ En este trabajo práctico se continúa el desarrollo del TP1 incorporando nuevos
 - Uso de `List<? extends Actividad>` para calcular costos de materiales.
 - Aplicación de genéricos, wildcards y polimorfismo.
 
+## SALIDAS DEL PROGRAMA
+![Salida1](images/Salida1.png)
+![Salida2](images/Salida2.png)
 
